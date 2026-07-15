@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary / generated working files
+*.tmp
+*.bak
+*.log
+/output/
+/outputs/
+/drafts/
+
+# Local-only draft documents (keep repo clean of one-off bid files)
+*.docx~
